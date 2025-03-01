@@ -48,4 +48,4 @@ Your bot will start and wait for messages. Test your bot by sending the `/start`
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under The MIT License.
